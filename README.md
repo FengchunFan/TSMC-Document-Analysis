@@ -65,10 +65,12 @@ Document_Analyzer_BERTopic.ipynb
 ## 📁 File Structure
 
 - `Chatgpt_CDQA.ipynb` – Main notebook for semantic search and RAG pipeline.
+- `/BERTopic/` – Contains:
+  - `nexus_parser.py` – Helper program to parse articles downloaded from Nexus Uni Database.
+  - `Document_Analyzer_BERTopic.ipynb` – Topic modeling code with BERTopic.
 - `/Screenshot/` – Contains:
   - `System Structure.png` – Our pipeline architecture.
   - `RAG pipeline.png` – Standard RAG flow adapted from Gao et al. (2024).
-- `Document_Analyzer_BERTopic.ipynb` – Topic modeling code with BERTopic.
 
 ---
 
